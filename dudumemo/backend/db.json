@@ -1,0 +1,100 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "ÁRVORE E FOLHA.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "O SILMARILLION.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "OS FILHOS DE HÚRIN.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "BEREN E LÚTHIEN.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 4,
+      "conteudo": "A QUEDA DE GONDOLIN.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "CONTOS INACABADOS.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 6,
+      "conteudo": "O HOBBIT.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 7,
+      "conteudo": "O SENHOR DOS ANÉIS, A Sociedade do Anel.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "O SENHOR DOS ANÉIS, As Duas Torres.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 9,
+      "conteudo": "O SENHOR DOS ANÉIS, O Retorno do Rei.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 10,
+      "conteudo": "A NATUREZA DA TERRA-MÉDIA.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 11,
+      "conteudo": "A QUEDA DE ARTUR.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 12,
+      "conteudo": "O REGRESSO DE BEORHTNOTH.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 13,
+      "conteudo": "FERREIRO DE BOSQUE GRANDE.",
+      "autoria": "J.R.R. Tolkien",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 14,
+      "conteudo": "John Ronald Reuel Tolkien, conhecido internacionalmente por J.R.R. Tolkien, foi um escritor, professor universitário e filólogo britânico. Nascido na atual África do Sul, que recebeu o título de doutor em Letras e Filologia pela Universidade de Liège e Dublin, em 1954, e autor das obras como O Hobbit, O Senhor dos Anéis e O Silmarillion. Em 28 de março de 1972, Tolkien foi nomeado Comendador da Ordem do Império Britânico pela Rainha Elizabeth II.",
+      "autoria": "John Ronald Reuel Tolkien",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 15,
+      "conteudo": "Christopher Tolkien nasceu em Leeds, na Inglaterra, o terceiro de quatro filhos do autor John Ronald Reuel Tolkien e de Edith Mary Reuel Tolkien (21 de janeiro de 1889 – 29 de novembro de 1971). Foi educado na Dragon School em Oxford, e então na Oratory School. Durante a Segunda Guerra Mundial, ele serviu como piloto da Força Aérea Real, cursando Inglês depois na Universidade de Oxford.",
+      "autoria": "Christopher John Reuel Tolkien",
+      "modelo": "modelo3"
+    }
+  ]
+}

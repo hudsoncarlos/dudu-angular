@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { IPensamento } from '../interfaces/ipensamento';
 
 @Component({
   selector: 'app-pensamento',
@@ -7,7 +8,8 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class PensamentoComponent implements OnInit {
 
-  @Input() pensamento = {
+  @Input() pensamento: IPensamento = {
+    id: 0,
     conteudo: 'Conteúdo inserido para carregamento do componente filho pensamento.',
     autoria: 'Componente filho',
     modelo: 'modelo1'
@@ -27,5 +29,4 @@ export class PensamentoComponent implements OnInit {
     }
     return 'pensamento-p'
   }
-
 }
