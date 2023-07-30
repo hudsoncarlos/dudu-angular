@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { IPensamento } from '../interfaces/ipensamento';
 
 @Component({
   selector: 'app-criar-pensamento',
@@ -7,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CriarPensamentoComponent implements OnInit {
 
-  pensamento = {
-    id: '1',
+  pensamento: IPensamento = {
+    id: 1,
     conteudo: 'Árvore e Folha.',
     autoria: 'J.R.R Tolkien',
     modelo: 'modelo3'
