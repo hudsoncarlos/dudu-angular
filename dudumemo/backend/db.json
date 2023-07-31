@@ -95,6 +95,18 @@
       "conteudo": "Christopher Tolkien nasceu em Leeds, na Inglaterra, o terceiro de quatro filhos do autor John Ronald Reuel Tolkien e de Edith Mary Reuel Tolkien (21 de janeiro de 1889 – 29 de novembro de 1971). Foi educado na Dragon School em Oxford, e então na Oratory School. Durante a Segunda Guerra Mundial, ele serviu como piloto da Força Aérea Real, cursando Inglês depois na Universidade de Oxford.",
       "autoria": "Christopher John Reuel Tolkien",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Não te mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares.",
+      "autoria": "Josué 1:9",
+      "modelo": "modelo2",
+      "id": 16
+    },
+    {
+      "conteudo": "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança",
+      "autoria": "Gálatas 5:22",
+      "modelo": "modelo3",
+      "id": 17
     }
   ]
 }
