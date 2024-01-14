@@ -31,6 +31,6 @@ export class CriarPensamentoComponent implements OnInit {
   }
 
   cancelarPensamento(){
-    console.log("Pensamento cancelado.");
+    this.router.navigate(['/listarPensamentos'])
   }
 }
