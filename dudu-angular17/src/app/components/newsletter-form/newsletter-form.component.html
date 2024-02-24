@@ -1,9 +1,15 @@
 <section class="form-section">
   <div class="text">
       <h3>
-        INSCREVA-SE NA NOSSA NEWSLETTER PARA RECEBER CONTEÚDOS EXCLUSIVOS.
+        INSCREVA-SE NA NOSSA NEWSLETTER.
       </h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris. Maecenas vitae mattis tellus. Nullam quis imperdiet augue. Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet. Pellentesque commodo lacus at sodales sodales. Quisque sagittis orci ut diam condimentum, vel euismod erat placerat. In iaculis arcu eros, eget temp</p>
+      <p>Bem-vindo à newsletter da Team Borracha, sua fonte de informações e novidades sobre o mundo das artes marciais e nossa academia especializada em oferecer treinamentos de alto nível! Em nossa newsletter, você encontrará dicas de treino, informações sobre eventos, entrevistas com nossos instrutores especializados em Boxe, Muay Thai e Jiu-Jitsu, além de histórias inspiradoras de nossos alunos e seus sucessos dentro e fora dos tatames.</p>
+      <br/>
+      <p>Nossa academia, é reconhecida pela excelência no ensino das artes marciais e pelo ambiente acolhedor e inclusivo que oferecemos a todos os praticantes, desde iniciantes até atletas de alto rendimento. Aqui, você encontrará não apenas um lugar para treinar, mas uma comunidade dedicada e apaixonada pelas artes marciais, pronta para te apoiar em sua jornada de evolução física e mental.</p>
+      <br/>
+      <p>Em cada edição da nossa newsletter, trazemos conteúdos exclusivos para ajudar você a aprimorar suas técnicas, manter-se motivado e conectado com a comunidade de praticantes de artes marciais. Não importa se você está começando agora ou se já é um lutador experiente, nossa newsletter é feita para todos os amantes das artes marciais que buscam se aperfeiçoar e crescer nesse universo fascinante.</p>
+      <br>
+      <p>Não perca tempo, inscreva-se em nossa newsletter e faça parte dessa comunidade de apaixonados por artes marciais e pela Team Borracha!</p>
   </div>
   <form [formGroup]="newsletterForm">
       <label for="name">Name</label>
@@ -13,7 +19,7 @@
       <label for="whatsApp">WhatsApp</label>
       <input id="whatsApp" formControlName="whatsApp"/>
       <btn-primary
-          btn-text="SE INSCREVA"
+          btn-text="CADASTRAR"
           variant="secondary"
           (submit)="onSubmit()"
           [disabled]="!newsletterForm.valid"
